@@ -1,0 +1,58 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 535 >>
+stream
+BT
+/F1 18 Tf
+60 760 Td
+(CENTRAL LAB - Complete Blood Count) Tj
+/F1 11 Tf
+0 -22 Td
+() Tj
+0 -22 Td
+(Patient: Ahmed Ali) Tj
+0 -22 Td
+(Sample date: \(demo file\)) Tj
+0 -22 Td
+() Tj
+0 -22 Td
+(Haemoglobin ............ 13.8 g/dL   \(13.0 - 17.0\)) Tj
+0 -22 Td
+(White blood cells ...... 7.2 x10^9/L \(4.0 - 11.0\)) Tj
+0 -22 Td
+(Platelets .............. 265 x10^9/L \(150 - 400\)) Tj
+0 -22 Td
+(Haematocrit ............ 41.5 %      \(40 - 50\)) Tj
+0 -22 Td
+() Tj
+0 -22 Td
+(This is a SAMPLE file included with the Clinic System demo data.) Tj
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000827 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+897
+%%EOF
